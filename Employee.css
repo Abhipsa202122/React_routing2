@@ -1,0 +1,16 @@
+table,th,td{
+    border:2px double deeppink;
+}
+
+td,th{
+    padding: 5px;
+}
+
+thead{
+    color:red;
+}
+
+tbody{
+    color:rgb(91, 45, 200);
+}
+
